@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d83ef675.css",
-    "main.js": "/static/js/main.40839e39.js",
-    "static/js/787.ccf46ecd.chunk.js": "/static/js/787.ccf46ecd.chunk.js",
-    "index.html": "/index.html",
-    "main.d83ef675.css.map": "/static/css/main.d83ef675.css.map",
-    "main.40839e39.js.map": "/static/js/main.40839e39.js.map",
-    "787.ccf46ecd.chunk.js.map": "/static/js/787.ccf46ecd.chunk.js.map"
+    "main.css": "/wireshark-packet-analyser/static/css/main.d83ef675.css",
+    "main.js": "/wireshark-packet-analyser/static/js/main.fca77312.js",
+    "static/js/787.ccf46ecd.chunk.js": "/wireshark-packet-analyser/static/js/787.ccf46ecd.chunk.js",
+    "index.html": "/wireshark-packet-analyser/index.html",
+    "main.d83ef675.css.map": "/wireshark-packet-analyser/static/css/main.d83ef675.css.map",
+    "main.fca77312.js.map": "/wireshark-packet-analyser/static/js/main.fca77312.js.map",
+    "787.ccf46ecd.chunk.js.map": "/wireshark-packet-analyser/static/js/787.ccf46ecd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d83ef675.css",
-    "static/js/main.40839e39.js"
+    "static/js/main.fca77312.js"
   ]
 }
